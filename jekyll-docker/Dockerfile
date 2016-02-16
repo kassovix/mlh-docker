@@ -1,3 +1,3 @@
 FROM jekyll/jekyll
 
-VOLUME /src/jekyll
+VOLUME /srv/jekyll
